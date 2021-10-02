@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Proyecto/InicioJuego.unity
+    guid: 91a24c4b366869f438152563d51f117c
+  - enabled: 0
+    path: Assets/Scenes/Proyecto/Iglesia_KillBill.unity
+    guid: 0e9de32ba2809a347b89df67ec88174a
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Inicio_Spidey.unity
+    guid: f814797188ff9aa45b19554081a2c793
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/NuevaYork.unity
+    guid: eb9dadb30272b354d9c248a51c3d409d
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Video_Intro.unity
+    guid: b60800f36ad459c4284eddd65295bb06
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Video_Mysterio.unity
+    guid: ccbc66f042e86f941b4fd7a3103c54d4
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Video_Venom.unity
+    guid: 1cac37657481ea049ad71be5f61a3109
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Luna.unity
+    guid: 246b17294fbe5da4bb2b0e4c6590118d
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Central Park.unity
+    guid: 6802fc1282ef57a42a8692bcfc14db0f
+  - enabled: 1
+    path: Assets/Scenes/Proyecto_Spidey/Video_Final.unity
+    guid: e4ee2dc902233cd4686d00742088a999
+  m_configObjects: {}
